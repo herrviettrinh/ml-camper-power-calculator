@@ -1,11 +1,14 @@
 <?php
-/*
-Plugin Name: ML Camper Power Calculator
-Description: Berechnet Stromverbrauch und Batterie-Laufzeit für Camper.
-Version: 1.0
-Author: Viet Trinh, Arash Dadkhah
-Company: ML Freizeitshop
-*/
+/**
+ * Plugin Name: ML Camper Power Calculator
+ * Plugin URI: https://ml-freizeitshop.de/pages/camper-strom-rechner-plugin
+ * Description: Berechnet den Strombedarf für Camper.
+ * Version: 1.0.0
+ * Author: Viet Trinh, Arash Dadkhah
+ * License: GPL v2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: ml-camper-power-calculator
+ */
 
 if (!defined('ABSPATH')) exit;
 
