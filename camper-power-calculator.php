@@ -3,7 +3,7 @@
  * Plugin Name: ML Camper Power Calculator
  * Plugin URI: https://ml-freizeitshop.de/pages/camper-strom-rechner-plugin
  * Description: Calculates power consumption for campers.
- * Version: 1.0.0
+ * Version: 1.0
  * Author: Viet Trinh, Arash Dadkhah
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
