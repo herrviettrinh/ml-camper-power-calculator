@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Camper Power Calculator
+Plugin Name: ML Camper Power Calculator
 Description: Berechnet Stromverbrauch und Batterie-Laufzeit für Camper.
 Version: 1.0
 Author: ML Freizeitshop
