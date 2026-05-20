@@ -5,7 +5,7 @@ Company: ML Freizeitshop
 
 Link: [https://ml-freizeitshop.de](https://ml-freizeitshop.de/pages/camper-strom-rechner-plugin)
 
-Tags: camper, solar, battery, calculator
+Tags: camper, solar, batterie, kalkulator
 
 Requires at least: 5.0
 
