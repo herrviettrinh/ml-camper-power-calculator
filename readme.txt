@@ -1,7 +1,6 @@
 ML Camper Power Calculator
 
 Contributors: Viet Trinh, Arash Dadkhah
-Company: ML Freizeitshop
 Link: https://ml-freizeitshop.de/pages/camper-strom-rechner-plugin
 Tags: camper, solar, battery, calculator
 Requires at least: 5.0
