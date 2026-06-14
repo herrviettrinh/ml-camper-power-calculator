@@ -1,4 +1,4 @@
-ML Camper Power Calculator
+=== ML Camper Power Calculator ===
 
 Contributors: Viet Trinh, Arash Dadkhah
 Link: https://ml-freizeitshop.de/pages/camper-strom-rechner-plugin
@@ -7,6 +7,8 @@ Requires at least: 5.0
 Tested up to: 7.0
 Stable tag: 1.0
 License: GPLv2 or later
+
+Simple camper power consumption and battery runtime calculator.
 
 == Description ==
 
