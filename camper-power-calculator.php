@@ -18,7 +18,7 @@ function cpc_enqueue_scripts() {
         'cpc-script',
         plugin_dir_url(__FILE__) . 'assets/script.js',
         array(),
-        null,
+        filemtime(plugin_dir_path(__FILE__) . 'assets/script.js'),
         true
     );
 }
