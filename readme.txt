@@ -4,7 +4,7 @@ Contributors: Viet Trinh, Arash Dadkhah
 Link: https://ml-freizeitshop.de/pages/camper-strom-rechner-plugin
 Tags: camper, solar, battery, calculator
 Requires at least: 5.0
-Tested up to: 6.9
+Tested up to: 7.0
 Stable tag: 1.0
 License: GPLv2 or later
 
